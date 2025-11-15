@@ -1,6 +1,4 @@
-# Design-of-Transformer-
-Single phase 1:1 ; 230 V; 5kVA
+# Design of Distribution Transformers
+This repository contains our final year project - building an application to design distribution transformers using python tkinter. 
 
-
-This repository contains design of Power Transformer. The sole purpose of this project is to simplify it.
-correction has been made.
+![Design Pipeline Poster]("./poster.jpg")
